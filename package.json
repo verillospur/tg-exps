@@ -1,0 +1,24 @@
+{
+  "name": "tg-exps",
+  "version": "1.0.0",
+  "description": "Telegram experiments",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/verillospur/tg-exps.git"
+  },
+  "author": "bs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/verillospur/tg-exps/issues"
+  },
+  "homepage": "https://github.com/verillospur/tg-exps#readme",
+  "dependencies": {
+    "date-fns": "^2.21.3",
+    "mongodb": "^3.6.6",
+    "random": "^3.0.6"
+  }
+}
